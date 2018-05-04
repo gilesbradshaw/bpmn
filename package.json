@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bpmn-engine": "^4.2.0",
+    "react-router": "^4.2.0"
+  },
+  "name": "giles-bpmn",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "giles",
+  "license": "MIT"
+}
